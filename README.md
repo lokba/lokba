@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanglok Kim</h1>
+<h1 align="center">Hi 👋, I'm Lokba</h1>
 <div><li>🔭 I’m currently working on Soongsil Univ.</li></div>
 </br>
 
